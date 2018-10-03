@@ -15,7 +15,7 @@ h1, h3, h6 {
     background-color: greenyellow;
 }
 
-.zombieHeading {
+#zombieHeading {
     color: blueviolet;
     font-size: 6em;
 }
