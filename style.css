@@ -1,0 +1,25 @@
+h1, h3, h6 {
+    color: #75baf3;
+}
+
+.large-text {
+    font-size: 2em;
+    text-align: right;
+}
+
+#main-heading {
+    text-decoration: underline;
+}
+
+.zombieSection {
+    background-color: greenyellow;
+}
+
+.zombieHeading {
+    color: blueviolet;
+    font-size: 6em;
+}
+
+.zombieTalk {
+    font-size: .5em;
+}
